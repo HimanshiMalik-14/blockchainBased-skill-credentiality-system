@@ -116,7 +116,7 @@ GET	/certificate/:id	Fetch certificate details
 Himanshi Malik
 Backend + Blockchain Developer
 
-###🚀 Future Enhancements
+### 🚀 Future Enhancements
 Frontend integration (React)
 
 QR code-based verification
@@ -127,5 +127,5 @@ Multi-chain support
 
 AI-based fraud detection
 
-###📄 License
+### 📄 License
 This project is developed for educational purposes.
