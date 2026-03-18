@@ -102,7 +102,8 @@ Method	Endpoint	Description
 POST	/certificate	Create certificate
 GET	/verify/:id	Verify certificate
 GET	/certificate/:id	Fetch certificate details
-📊 Key Highlights
+
+### 📊 Key Highlights
 🔐 Blockchain ensures immutability
 
 ⚡ Fast and reliable verification
@@ -111,7 +112,7 @@ GET	/certificate/:id	Fetch certificate details
 
 🔒 Environment variables secure sensitive data
 
-👩‍💻 Author
+### 👩‍💻 Author
 Himanshi Malik
 Backend + Blockchain Developer
 
